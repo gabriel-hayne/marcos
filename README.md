@@ -1,2 +1,2 @@
 # marcos
-![Alt text]([(https://raw.githubusercontent.com/alrra/browser-logos/main/src/safari/safari_48x48.png])
+![alt text](https://raw.githubusercontent.com/alrra/browser-logos/main/src/safari/safari_48x48.png)
